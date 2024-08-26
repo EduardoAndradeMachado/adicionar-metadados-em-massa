@@ -1,5 +1,6 @@
 import subprocess
 import sys
+import time
 
 # Lista de pacotes necessários
 required_packages = [
@@ -132,3 +133,6 @@ dir_path = os.getcwd()
 
 # Processa as imagens no diretório com os metadados fornecidos
 process_images_in_directory(dir_path, description, subject, brands, latitude, longitude)
+
+print("Script finalizado com sucesso!")
+time.sleep(5)
