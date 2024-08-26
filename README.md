@@ -12,7 +12,7 @@ O **Adicionar Metadados em Massa** é um script em Python desenvolvido para agil
 
 ### Tutorial em Vídeo
 
-Assista ao tutorial em vídeo para ver o passo a passo da instalação e uso do script: [link do vídeo]
+Assista ao tutorial em vídeo para ver o passo a passo da instalação e uso do script: [https://youtu.be/UeIEaIq8eXE]
 
 ### Instruções Escritas
 
