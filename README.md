@@ -18,18 +18,18 @@ Assista ao tutorial em vídeo para ver o passo a passo da instalação e uso do 
 
 1. **Baixe e instale o Python**: Se ainda não tiver o Python instalado, você pode baixá-lo e instalá-lo [aqui](https://www.python.org/downloads/).
 
-2. **Baixe o arquivo "Adicionar Metadados Em Massa.py"**: Obtenha o script diretamente do repositório ou da fonte fornecida.
+2. **Baixe o arquivo "Adicionar Metadados Em Massa.py"**: Obtenha o script diretamente do repositório.
 
 3. **Coloque o arquivo dentro da pasta desejada**: 
    - **Importante**: O script não verifica se o diretório onde está sendo executado é crítico ou não. Portanto, use-o com cuidado e somente dentro de pastas adequadas para evitar a modificação inadvertida de arquivos importantes.
 
 4. **Execute o script**: 
    - Basta dar dois cliques no arquivo `Adicionar Metadados Em Massa.py`.
-   - Siga as instruções no terminal para inserir as informações desejadas (descrição, assunto, marcas, coordenadas GPS).
+   - Siga as instruções no terminal para inserir as informações desejadas (descrição, assunto, marca / tag e coordenadas).
 
 ## Modo Debug
 
-O script oferece um **Modo Debug** que utiliza valores padrão para os metadados. No entanto, essa opção deve ser habilitada editando diretamente o código do script, sendo recomendada apenas para usuários com conhecimento de programação.
+O script oferece um **Modo Debug** que utiliza valores padrão para os metadados. No entanto, essa opção deve ser habilitada editando diretamente o código do script, sendo recomendada apenas para usuários com conhecimento básico de programação.
 
 ## Contribuição
 
